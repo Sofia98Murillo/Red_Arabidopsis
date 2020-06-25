@@ -33,5 +33,6 @@ Se creo ésta red usando genemania.org
 
 ![Imagen2](https://user-images.githubusercontent.com/67028105/85803998-18b28800-b70e-11ea-8b9b-7f4640a848f5.jpg)
 
+                                         -Las línas verdes representan dominios proteicos compartidos y las moradas co-localización
 
 ![Imagen1](https://user-images.githubusercontent.com/67028105/85803913-e43ecc00-b70d-11ea-9b43-0237b487612f.jpg)
