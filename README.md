@@ -18,9 +18,9 @@ De la red Tfsseed-subNetDT1( descrita en el artículo siguiente https://www.pnas
 - GASA3: proteína_Gibberellin-regulated protein 3
 - HVA22B:proteína_HVA22-like protein b
 
+         - En el artículo se encuentran en un artículo funcional de metabolismo hormonal.
 
-
-Formato FASTA de las protéinas:
+Formato FASTA de las proteínas:
 >sp|Q9SYX7|HA22B_ARATH HVA22-like protein b OS=Arabidopsis thaliana OX=3702 GN=HVA22B PE=2 SV=2
 MSSGIGSLVKVIFKNFDVIAGPVISLVYPLYASVRAIESRSHGDDKQWLTYWALYSLIKL
 FELTFFRLLEWIPLYPYAKLALTSWLVLPGMNGAAYLYEHYVRSFLLSPHTVNVWYVPAK
