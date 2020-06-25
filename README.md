@@ -24,3 +24,4 @@ KDDDLGATAGKFTPVNDSGAPQEKIVSSVDTSAKYVGHSAFDDAYIY
 
 
 ![genemania-network (3)](https://user-images.githubusercontent.com/67028105/85803609-2e737d80-b70d-11ea-977b-aeeea70eae9c.jpg)
+![Imagen1](https://user-images.githubusercontent.com/67028105/85803913-e43ecc00-b70d-11ea-9b43-0237b487612f.jpg)
