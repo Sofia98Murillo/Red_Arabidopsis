@@ -36,3 +36,7 @@ Se creo ésta red usando genemania.org
                                          -Las línas verdes representan dominios proteicos compartidos y las moradas co-localización
 
 ![Imagen1](https://user-images.githubusercontent.com/67028105/85803913-e43ecc00-b70d-11ea-9b43-0237b487612f.jpg)
+
+>Co-localización: Genes expresados en el mismo tejido, o proteínas encontradas en la misma ubicación. Dos genes están unidos si ambos se expresan en el mismo tejido o si sus productos genéticos se identifican en la misma localización celular.
+>Dominios de proteínas compartidos: Datos de dominio de proteínas. Dos productos génicos están vinculados si tienen el mismo dominio de proteínas. Estos datos se recogen de bases de datos de dominio, como Interpro, SMART y Pfam.
+
