@@ -13,8 +13,8 @@
                          - CCAAT factor de unión A caja
                          - Tres proteínas que contienen B3 (12), ABSCISIC ACID INSENSITIVE 3 (ABI3), FUSCA 3 (FUS3), y LEC2.
 
-        - Se creo ésta red usando genemania.org-
-
+Se creo ésta red usando genemania.org
+TFsSeed-subNetDT1 involved in nutrient storage and stress tolerance
 
 Formato FASTRA del gen
 >sp|Q9SYX7|HA22B_ARATH HVA22-like protein b OS=Arabidopsis thaliana OX=3702 GN=HVA22B PE=2 SV=2
