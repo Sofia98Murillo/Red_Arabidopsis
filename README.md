@@ -42,3 +42,5 @@ Co-expresión: Datos de expresión génica. Dos genes están vinculados si sus n
 >Dominios de proteínas compartidos: Datos de dominio de proteínas. Dos productos génicos están vinculados si tienen el mismo dominio de proteínas. Estos datos se recogen de bases de datos de dominio, como Interpro, SMART y Pfam.
 
 Entre estos dos genes Genemania no muestra vinculaciones en interacciones físicas, co-localización, interacciones genéticas y predicción funcional.
+
+![Imagen3](https://user-images.githubusercontent.com/67028105/85805865-14d53480-b713-11ea-9220-7eb804059b76.png)
