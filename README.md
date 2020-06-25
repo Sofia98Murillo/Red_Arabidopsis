@@ -7,12 +7,13 @@
 
 - Entender las redes que regulan la tolerancia a la desecación de semillas en los sistemas de plantas modelo proporcionaría las herramientas para entender un proceso evolutivo que jugó un papel crucial en la diversificación de las plantas en floración.
 
-                         -En Arabidopsis, el desarrollo embrionario y la maduración de semillas, incluyendo la adquisición de DT, es orquestada por un conjunto de cuatro reguladores principales: 
+                         -En Arabidopsis, el desarrollo embrionario y la maduración de semillas, incluyendo la adquisición de DT, 
+                         es orquestada por un conjunto de cuatro reguladores principales: 
                          - LEAFY COTYLEDON 1 (LEC1)
                          - CCAAT factor de unión A caja
                          - Tres proteínas que contienen B3 (12), ABSCISIC ACID INSENSITIVE 3 (ABI3), FUSCA 3 (FUS3), y LEC2.
 
-Se creo ésta red usando genemania.org
+        - Se creo ésta red usando genemania.org-
 
 
 Formato FASTRA del gen
