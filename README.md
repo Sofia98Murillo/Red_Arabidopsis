@@ -1,5 +1,6 @@
 # Red_Arabidopsis
-https://github.com/Sofia98Murillo/Red_Arabidopsis/blob/master/Arabidopsis-thaliana-(L.)-Heynh.-434632.jpg
+![Arabidopsis-thaliana-(L )-Heynh -434632](https://user-images.githubusercontent.com/67028105/85800833-4811c680-b707-11ea-871c-1cf93de404f8.jpg)
+
 Se creo ésta red usando genemania.org
 Formato FASTRA del gen
 >sp|Q9SYX7|HA22B_ARATH HVA22-like protein b OS=Arabidopsis thaliana OX=3702 GN=HVA22B PE=2 SV=2
