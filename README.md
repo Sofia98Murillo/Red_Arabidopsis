@@ -1,7 +1,7 @@
 # Red_Arabidopsis
 ![Arabidopsis-thaliana-(L )-Heynh -434632](https://user-images.githubusercontent.com/67028105/85800833-4811c680-b707-11ea-871c-1cf93de404f8.jpg)
 
-- La tolerancia a la desecación (DT) es un proceso notable que permite que las semillas en estado seco sigan siendo viables durante largos períodos de tiempo.
+- La tolerancia a la desecación (DT) es un proceso notable que permite a las plantas terrestres sobrevivir largos períodos de agua escasa hasta que se presenten condiciones favorables para la germinación
 
 - Se ha postulado que la DT de las semilla evolucionó al reconectar las redes reguladoras y de señalización que controlaban el DT vegetativa
 
