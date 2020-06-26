@@ -15,8 +15,8 @@
 
 # RED
 De la red Tfsseed-subNetDT1( descrita en el artículo siguiente https://www.pnas.org/content/pnas/113/35/E5232.full.pdf )implicada en el almacenamiento de nutrientes y tolerancia al estrés, se escogieron los genes: 
-- GASA3: proteína_Gibberellin-regulated protein 3
-- HVA22B:proteína_HVA22-like protein b
+- GASA3: proteína_Gibberellin-regulated protein 3. Es una giberelina , proteína reguladura que puede funcionar en etapas de desarrollo hormonales controladas como germinación de semillas, floración y maduración de semillas.
+- HVA22B:proteína_HVA22-like protein b. 
 
          - En el artículo se encuentran en un la categoría funcional de metabolismo hormonal.
 
@@ -36,6 +36,9 @@ Se creo ésta red usando genemania.org
                                          -Las línas verdes representan dominios proteicos compartidos y las moradas co-expresión
 
 ![Imagen1](https://user-images.githubusercontent.com/67028105/85803913-e43ecc00-b70d-11ea-9b43-0237b487612f.jpg)
+
+
+>En la red se pueden observar que estos genes interaccionan con otros genes que codifican para giberelinas y por genes que expresan para prteínas que se pueden inducir por ABA y por estrés.
 
 >Co-expresión: Datos de expresión génica. Dos genes están vinculados si sus niveles de expresión son similares a través de condiciones en un estudio de expresión génica. La mayoría de estos datos se recogen del Gene Expression Omnibus (GEO)
 
